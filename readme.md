@@ -1,4 +1,6 @@
-NOTE : ".env" MUST in ".gitignore" but in my case is difference.
+NOTE :
+------------------
+".env" MUST in ".gitignore" but in my case is difference.
 
 User Authentication API:
 ------------------
@@ -15,7 +17,9 @@ Tech Stack:
 -Database: MongoDB (Mongoose ODM)
 -Authentication: JWT and bcrypt for password hashing
 
+
 API Endpoints and Test Case:
+------------------
 
 1.-Register User with this endpoint-
 http://localhost:6000/api/register_user
