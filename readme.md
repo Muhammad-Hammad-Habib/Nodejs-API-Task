@@ -7,7 +7,7 @@ Features:-
 -Protected Routes (using JWT authentication middleware)
 -Password Change (with validation and hashing)
 ------------------
-
+ 
 Tech Stack:
 -Backend: Node.js, Express.js
 -Database: MongoDB (Mongoose ODM)
