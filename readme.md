@@ -2,10 +2,10 @@ NOTE : ".env" MUST in ".gitignore" but in my case is difference.
 
 User Authentication API:
 Features:-
--User Registration (with email validation and password hashing)
--User Login (with JWT token generation)
--Protected Routes (using JWT authentication middleware)
--Password Change (with validation and hashing)
+User Registration (with email validation and password hashing)
+User Login (with JWT token generation)
+Protected Routes (using JWT authentication middleware)
+Password Change (with validation and hashing)
 ------------------
 
 Tech Stack:
